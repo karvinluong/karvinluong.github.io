@@ -92,7 +92,29 @@ a {
 }
 
 .jumbotron {
-  background-image: url("img/pizzapresident.jpg");
+  background-image: url("../img/pizzabackground.jpg");
   background-size: cover;
   color: white;
+  height:100%;
+}
+
+.center {
+	margin-top: 20%;
+}
+
+.navbar-size1 {
+	font-size: 40px !important;
+}
+
+.navbar-size {
+	font-size: 24px !important;
+}
+
+.nav-item {
+	display: inline-block;
+}
+
+.pull-right, .navbar-nav>li {
+	display: inline-block !important;
+	padding: 0 10px;
 }
