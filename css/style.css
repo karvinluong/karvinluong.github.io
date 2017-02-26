@@ -1,0 +1,98 @@
+body {
+	font-family: 'Roboto Condensed', sans-serif; 
+	background-color: #f5f7f9;
+}
+
+.banner {
+	background-color: #f48024;
+	height: 70px;
+	font-size:60px;
+	text-align: center;
+}
+
+.banner2 {
+	background-color: #f48024;
+	height: 70px
+}
+
+.pp {
+	width:45px;
+	text-align: right;
+}
+
+.qaz{
+	text-align: center;
+}
+
+.waz{
+	text-align: center;
+}
+
+.facepizza {
+	border-radius: 50%;
+	width: 200px;
+}
+.card-title{
+	font-size: 25px;
+}
+.card-text {
+	font-size: 15px;
+}
+
+.raz {
+	text-align: center;
+}
+
+.zaq {
+	font-size: 40px;
+}
+
+.xaq {
+	font-size: 15px
+}
+
+.caq{
+	font-size: 30px;
+}
+
+.vaq{
+	font-size: 20px;
+}
+
+.Cheese {
+	color: yellow
+}
+
+.cheese1{
+	font-size: 15px
+}
+
+.pepperoni {
+	color: red
+}
+
+.pepperoni1 {
+	font-size: 15px
+	}
+
+.BBQ1 {
+	font-size: 15px
+	}
+
+.link-icon{
+	text-align: center;
+	font-size: 35px;
+}
+
+.stalkme {
+	font-size: 10px
+}
+a {
+	color: white;
+}
+
+.jumbotron {
+  background-image: url("img/pizzapresident.jpg");
+  background-size: cover;
+  color: white;
+}
